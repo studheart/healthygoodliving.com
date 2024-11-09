@@ -5391,3 +5391,11 @@ h6 {
 #mc_embed_signup {
   display: none;
 }
+
+.header_social_icon, .footer-social {
+    display: none;
+  }
+  
+.single_sidebar_wiget:nth-of-type(4) {
+    display: none;
+}
