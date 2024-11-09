@@ -25,10 +25,10 @@ input:hover, input:focus {
   background-color: #f7f7f7;
 }
 
-/* line 18, /Applications/MAMP/htdocs/palash/cl/july 2019/191 Lifeleck Blog/191 Lifeleck Blog html/sass/_common.scss */
-.section_padding {
-  padding: 140px 0px;
-}
+/* /* line 18, /Applications/MAMP/htdocs/palash/cl/july 2019/191 Lifeleck Blog/191 Lifeleck Blog html/sass/_common.scss */ */
+/* .section_padding { */
+  /* padding: 140px 0px; */
+/* } */
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   /* line 18, /Applications/MAMP/htdocs/palash/cl/july 2019/191 Lifeleck Blog/191 Lifeleck Blog html/sass/_common.scss */
