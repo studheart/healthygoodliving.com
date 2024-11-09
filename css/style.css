@@ -124,10 +124,10 @@ input:hover, input:focus {
   }
 }
 
-/* line 63, /Applications/MAMP/htdocs/palash/cl/july 2019/191 Lifeleck Blog/191 Lifeleck Blog html/sass/_common.scss */
-.margin_top {
-  margin-top: 140px;
-}
+/* /* line 63, /Applications/MAMP/htdocs/palash/cl/july 2019/191 Lifeleck Blog/191 Lifeleck Blog html/sass/_common.scss */ */
+/* .margin_top { */
+  /* margin-top: 140px; */
+/* } */
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   /* line 63, /Applications/MAMP/htdocs/palash/cl/july 2019/191 Lifeleck Blog/191 Lifeleck Blog html/sass/_common.scss */
