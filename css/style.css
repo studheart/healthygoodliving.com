@@ -5406,3 +5406,9 @@ h6 {
 .d-lg-block.d-none.header_social_icon {
       display: none !important;
 }
+
+
+.sidebar_widget,
+.img-fluid {
+    padding-top: 50px;
+}
