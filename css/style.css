@@ -5387,3 +5387,7 @@ h6 {
 .social_connect_part {
     display: none;
 }
+
+#mc_embed_signup {
+  display: none;
+}
