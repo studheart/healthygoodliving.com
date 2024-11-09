@@ -5412,3 +5412,14 @@ h6 {
 .img-fluid {
     padding-top: 50px;
 }
+
+.navigation-top,
+.navigation-area,
+.blog-author,
+.comments-area,
+.comment-form {
+    display: none;
+}
+
+.single_sidebar_wiget:nth-of-type(1) {
+    display: none;
