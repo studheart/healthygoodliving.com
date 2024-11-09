@@ -5384,6 +5384,8 @@ h6 {
 /*# sourceMappingURL=../css/style.map */
 
 
+/* custom edits - arun */
+
 .social_connect_part {
     display: none;
 }
@@ -5423,3 +5425,8 @@ h6 {
 
 .single_sidebar_wiget:nth-of-type(1) {
     display: none;
+}
+	
+.page_pageniation {
+    display: none;
+}
