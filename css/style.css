@@ -5431,8 +5431,19 @@ h6 {
     display: none;
 }
 
-ul {
+ul{
     list-style-type: disc;
+    padding-left: 20px;
+    margin-bottom: 1.5em;
+	color: #888888;
+    font-family: "Lora", serif;
+    font-size: 15px;
+    margin-bottom: 0px;
+    color: #646464;
+	line-height: 1.929;
+}
+
+ ol{
     padding-left: 20px;
     margin-bottom: 1.5em;
 	color: #888888;
@@ -5446,6 +5457,13 @@ ul li {
     margin-bottom: 0.75em;
 }
 ul li strong {
+    color: #333;
+}
+
+ol li {
+    margin-bottom: 0.75em;
+}
+ol li strong {
     color: #333;
 }
 
