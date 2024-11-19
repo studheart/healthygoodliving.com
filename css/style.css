@@ -5482,3 +5482,32 @@ ul.blog-info-link.mb-4,
 ul.blog-info-link.my-4 {
     margin-bottom: 0 !important; 
 }
+
+.hidden {
+  display: none;
+}
+
+
+/* Ghost Button Styling */
+#load-more {
+  display: block; /* Makes the button a block element */
+  margin: 20px auto; /* Centers the button horizontally */
+  padding: 10px 20px; /* Adds padding for better click area */
+  background-color: white; /* Sets the background color to white */
+  color: #fc4600; /* Sets the text color to orange */
+  border: 2px solid #fc4600; /* Sets the orange border */
+  font-family: "Cardo", serif; /* Sets the font */
+  font-size: 16px; /* Adjust font size if needed */
+  cursor: pointer; /* Changes cursor to pointer */
+  text-align: center; /* Ensures the text is centered */
+  border-radius: 5px; /* Optional: rounds the corners for better look */
+  transition: background-color 0.3s, color 0.3s; /* Smooth color change effect */
+}
+
+/* Hover effect for the ghost button */
+#load-more:hover {
+  background-color: #fc4600; /* Changes background color to orange on hover */
+  color: white; /* Changes text color to white on hover */
+  border-color: #fc4600; /* Keeps the border orange */
+}
+
